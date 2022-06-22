@@ -1,3 +1,4 @@
+# CVE-2022-31373   
 # SolarView_Compact_6.0_xss
 
 
